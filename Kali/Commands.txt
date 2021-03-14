@@ -1,0 +1,39 @@
+-LINUX:
+    *GENERAL:	
+          ctrl + c 		copy
+          ctrl + v		paste 
+          ctrl + x		cut
+          ctrl + s	 	save currently opened file
+          ctrl + n 		create a new file
+          ctrl + z		undo the last action
+          ctrl + q		quit the application in focus
+          ctrl + alt + T		Open terminal
+          ctrl + F4		Close current window			
+          super + imp pnt  	Open Kazam
+          alt + F3		Open application Finder 
+
+     *TERMINAL SHORTCUTS:
+          ctrl + D		Close terminal window
+          ctrl + C 		Cancel currently running command
+          ctrl + L		Clear terminal
+          ctrl ++			Zoom in
+          ctrl -- 		Zoom out
+          ctrl + A		Move cursor to beginning of line
+          ctrl + B		Move cursos backward one character
+          ctrl + E		Move cursor to end of line
+          ctrl + F		Move cursor forward one character
+
+     *TAKING SCREENSHOTS:
+          print			ss
+          alt + print		ss of a window
+          shift + print		ss of an area
+          ctrl + print		ss to clipboard
+          ctrl + alt + print	ss of a window to clipboard
+          shift + ctrl + print	ss of an area to clipboard
+          shift+ctrl+alt + R	record a short screencast
+
+     *EXTRAS:
+     	    ctrl + alt + D		minimizes all windows
+	        alt + space		activate the window menu
+          
+          
