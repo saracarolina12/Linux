@@ -7,7 +7,7 @@
           ctrl + n 		create a new file
           ctrl + z		undo the last action
           ctrl + q		quit the application in focus
-          ctrl + alt + T		Open terminal
+          ctrl + alt + T	Open terminal
           ctrl + F4		Close current window			
           super + imp pnt  	Open Kazam
           alt + F3		Open application Finder 
@@ -16,7 +16,7 @@
           ctrl + D		Close terminal window
           ctrl + C 		Cancel currently running command
           ctrl + L		Clear terminal
-          ctrl ++			Zoom in
+          ctrl ++		Zoom in
           ctrl -- 		Zoom out
           ctrl + A		Move cursor to beginning of line
           ctrl + B		Move cursos backward one character
@@ -31,9 +31,25 @@
           ctrl + alt + print	ss of a window to clipboard
           shift + ctrl + print	ss of an area to clipboard
           shift+ctrl+alt + R	record a short screencast
+	  
+     *TO OPEN A FILE:
+          cat file_name		Displays the file content in the terminal
+	  less file_name	One page at time //to exit: press "q"
+	  more file_name 	similar to less comand
+	  			*enter: scroll down linea by line
+				*space: next page
+				*b: back page
+				*/key: search string
+	  nl file_name		displays the file content with line number
+	  
+     *EDITING A FILE IN TERMINAL:
+     	  sudo nano name.cpp	to edit a file 	
+	  			
+     	  
 
      *EXTRAS:
-     	    ctrl + alt + D		minimizes all windows
-	        alt + space		activate the window menu
+     	  ctrl + alt + D	minimizes all windows
+	  alt + space		activate the window menu
+
           
           
