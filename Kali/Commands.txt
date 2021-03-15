@@ -44,8 +44,6 @@
 	  
      *EDITING A FILE IN TERMINAL:
      	  sudo nano name.cpp	to edit a file 	
-	  			
-     	  
 
      *EXTRAS:
      	  ctrl + alt + D	minimizes all windows
