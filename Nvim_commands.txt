@@ -3,8 +3,12 @@
         *
         
     *Plugins:
+        *EasyMotion:
+              //to start:  enter + e
+              
         *NERDTree:  
-             //open: NERDTree
+             //open: enter + tt
+              m   open menu
               o   open in a new buffer or open/close directory
               t   open in a new tab
               i   open in a new horizontal split
@@ -12,5 +16,5 @@
               p   to go to parent directory
               r   refresh current directory
               ?   help
-             //exit: NERDTreeClose
+             //exit: :q
               
